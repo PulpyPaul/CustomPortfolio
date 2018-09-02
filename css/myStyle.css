@@ -1,0 +1,21 @@
+#aboutMe {
+    margin-left: 10px;
+}
+
+body {
+    background-color: #EFEFEF;
+}
+
+.leftCol {
+    border-color: blue;
+    margin: 0 auto;
+}
+
+.rightCol {
+    background-color: red;
+    margin: 0 auto;
+}
+
+.card {
+    margin: 0 auto;
+}
