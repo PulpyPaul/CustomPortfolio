@@ -7,15 +7,22 @@ body {
 }
 
 .leftCol {
-    border-color: blue;
-    margin: 0 auto;
+    margin-top: 20px;
+    float: right;
+    width: 50%;
+    height: 50%;
 }
 
 .rightCol {
-    background-color: red;
     margin: 0 auto;
+    margin-top: 20px;
 }
 
 .card {
     margin: 0 auto;
+}
+
+.aboutText {
+    margin: auto;
+    overflow: auto;
 }
